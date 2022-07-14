@@ -18,8 +18,6 @@
 
 This is a  Simple Digital Clock created using html, css, javascript. Here the current local time is shown on the screen.
 
-## LINK of full project: :point_right: . 
-
 ## Purpose :point_down:
 
 <div align="justified">
@@ -39,10 +37,3 @@ Smart-Phones-Catalogue
 
 I have made this website using javascrpt.
 
-## Screenshots :point_down: 
-
-<div align="center">
-     
-<a href="c1.PNG"><img src="c1.PNG" width="800" height= "400"></a> 
-  
-</div>
